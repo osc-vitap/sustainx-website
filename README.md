@@ -2,55 +2,68 @@ use bun as the package manager.
 
 this is the repo for the sustainx website. The required pages in the website 
 
-SUSTAIN-X
+```text
+Website
 │
-├── Hero
+├── HERO
 │   ├── Sustain-X
-│   ├── One-line tagline
-│   ├── Hackathon date
-│   ├── CTA → Explore Tracks
-│   └── CTA → Register / Submit
+│   ├── One-line Tagline
+│   ├── Hackathon Date
+│   ├── Explore Tracks → CTA
+│   └── Register / Submit → CTA
 │
-├── About
+├── ABOUT
 │   ├── What is Sustain-X?
 │   ├── Theme
-│   └── What we're looking for
+│   └── What We're Looking For
 │
-├── Tracks
-│   ├── Track 01
-│   ├── Track 02
-│   ├── Track 03
+├── TRACKS
+│   │
+│   ├── TRACK 01
+│   │   ├── Track Description
+│   │   ├── Problem Prompt
+│   │   ├── Requirements
+│   │   └── Expected Impact
+│   │
+│   ├── TRACK 02
+│   │   ├── Track Description
+│   │   ├── Problem Prompt
+│   │   ├── Requirements
+│   │   └── Expected Impact
+│   │
+│   ├── TRACK 03
+│   │   ├── Track Description
+│   │   ├── Problem Prompt
+│   │   ├── Requirements
+│   │   └── Expected Impact
+│   │
 │   └── ...
-│       ├── Track description
-│       ├── Problem prompt
-│       ├── Requirements
-│       └── Expected impact
 │
-├── Rules & Submission
+├── RULES & SUBMISSION GUIDELINES
 │   ├── Eligibility
-│   ├── Team rules
-│   ├── Development rules
-│   ├── Submission requirements
-│   └── Important notes
+│   ├── Team Rules
+│   ├── Development Rules
+│   ├── Submission Requirements
+│   └── Important Notes
 │
-├── Timeline
+├── TIMELINE
 │   ├── Registration
-│   ├── Hackathon begins
-│   ├── Submission deadline
+│   ├── Hackathon Begins
+│   ├── Submission Deadline
 │   ├── Evaluation
-│   └── Results
+│   └── Results / Winners Announcement
 │
-├── Judging Criteria
+├── JUDGING CRITERIA
 │   ├── Innovation
 │   ├── Impact
-│   ├── Technical implementation
+│   ├── Technical Implementation
 │   ├── Sustainability
 │   └── Presentation
 │
-└── Footer
+└── FOOTER
     ├── Organizers
     ├── Socials
     └── Contact
-
+```
 
 single page landing page would do.
