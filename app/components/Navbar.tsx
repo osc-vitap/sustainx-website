@@ -24,6 +24,7 @@ export default function Navbar() {
     { label: "Timeline", href: "#timeline" },
     { label: "Criteria", href: "#judging" },
     { label: "FAQ", href: "#faq" },
+    { label: "Contact", href: "#contact" },
   ];
 
   return (
