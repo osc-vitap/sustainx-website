@@ -37,11 +37,7 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between">
-          {/* Brand Logo */}
           <Link href="#" className="flex items-center gap-2.5 group">
-            <div className="relative flex items-center justify-center w-9 h-9 rounded-xl bg-orange-500/15 border border-orange-500/30 group-hover:border-orange-400 transition-all">
-              <span className="text-orange-400 font-mono font-black text-sm">SX</span>
-            </div>
             <div className="flex flex-col">
               <span className="text-base font-extrabold tracking-tight text-white flex items-center gap-1.5">
                 {HACKATHON_DATA.name}

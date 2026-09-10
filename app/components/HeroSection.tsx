@@ -58,9 +58,9 @@ export default function HeroSection() {
       {/* Top Ambient Glow Cone */}
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-5xl h-[500px] hero-spotlight pointer-events-none -z-10" />
 
-      <div className="max-w-4xl mx-auto text-center relative z-10">
+      <div className="max-w-4xl mx-auto text-center relative z-10 flex flex-col items-center">
         {/* Presenter Pill Badge */}
-        <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full glass-panel text-xs font-mono text-zinc-300 mb-8 backdrop-blur-2xl shadow-xl">
+        <div className="flex items-center gap-2 px-3.5 py-1.5 rounded-full glass-panel text-xs font-mono text-zinc-300 mb-8 backdrop-blur-2xl shadow-xl">
           <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
           <span className="font-semibold text-white">VIT-AP</span>
           <span className="text-zinc-600">•</span>

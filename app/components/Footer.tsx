@@ -125,9 +125,6 @@ export default function Footer() {
           {/* Brand Col */}
           <div className="lg:col-span-2 space-y-4">
             <Link href="#" className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-lg bg-orange-500/20 border border-orange-500/40 flex items-center justify-center text-orange-400 font-mono font-bold text-sm">
-                SX
-              </div>
               <span className="text-xl font-extrabold text-white">SustainX</span>
             </Link>
             <p className="text-sm text-zinc-400 max-w-sm leading-relaxed">
