@@ -7,6 +7,7 @@ import TimelineSection from "@/app/components/TimelineSection";
 import JudgingSection from "@/app/components/JudgingSection";
 import RegisterCtaSection from "@/app/components/RegisterCtaSection";
 import FaqSection from "@/app/components/FaqSection";
+import ContactSection from "@/app/components/ContactSection";
 import Footer from "@/app/components/Footer";
 import SideSocialBar from "@/app/components/SideSocialBar";
 import LiveDotBackground from "@/app/components/LiveDotBackground";
@@ -48,6 +49,9 @@ export default function Home() {
 
         {/* FAQ SECTION */}
         <FaqSection />
+
+        {/* CONTACT US SECTION */}
+        <ContactSection />
       </main>
 
       {/* FOOTER: OSC VIT-AP, Socials, Contacts */}

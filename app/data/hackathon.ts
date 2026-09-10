@@ -65,8 +65,25 @@ export const HACKATHON_DATA = {
     youtube: "https://youtube.com/@osc_vitap",
     twitter: "https://x.com/osc_vitap",
     facebook: "https://facebook.com/oscvitap",
-    discord: "https://discord.gg/vitap-osc",
-    contactEmail: "opensourcecommunity@vitap.ac.in",
+    github: "https://github.com/osc-vitap",
+    discord: "https://discord.com/invite/6QtYDd6Eh",
+    contactEmail: "osc@vitap.ac.in",
+  },
+
+  contact: {
+    email: "osc@vitap.ac.in",
+    location: {
+      line1: "VIT-AP University,",
+      line2: "Inavolu, Beside AP Secretariat,",
+      line3: "Amaravati, Andhra Pradesh 522237",
+      full: "VIT-AP University, Inavolu, Beside AP Secretariat, Amaravati, Andhra Pradesh 522237",
+    },
+    socials: {
+      instagram: "https://instagram.com/osc_vitap",
+      linkedin: "https://linkedin.com/company/osc-vitap",
+      github: "https://github.com/osc-vitap",
+      discord: "https://discord.com/invite/6QtYDd6Eh",
+    },
   },
 
   note: "Individual registration is ₹99 per participant. Teams can have a maximum of 4 members. Participants who wish to form or join a team will be able to do so before the hackathon through a registration link or at the venue.",
